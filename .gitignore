@@ -1,0 +1,26 @@
+Environment variables
+.env
+env/
+venv/
+ENV/
+
+Python cache
+pycache/
+*.pyc
+*.pyo
+*.pyd
+
+Local database files
+chroma_db/
+
+Data files and assets
+*.pdf
+*.png
+*.jpg
+*.jpeg
+
+IDE and editor specific files
+.vscode/
+.idea/
+*.swp
+*.swo
