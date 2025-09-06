@@ -57,17 +57,17 @@ The application follows a self-correcting RAG workflow implemented using LangGra
 ## Usage
 
 1.  **Add your PDF:**
-    Place the PDF file you want to use as a knowledge base in the root directory of the project and name it `Bio-pesticide.pdf`. You can change the PDF file by editing the `pdf_path` variable in `main.py`.
+**Add your PDF:** Place the PDF file you want to use as a knowledge base in the root directory of the project. You can change the PDF file by editing the `pdf_path` variable in `main.py` and run the `main.py` file. This step processes your document and creates the vector database, making it ready to use directly for questioning.
 
-2.  **Run the Streamlit application:**
+3.  **Run the Streamlit application:**
     ```bash
     streamlit run app.py
     ```
 
-3.  **Open the application in your browser:**
+4.  **Open the application in your browser:**
     Navigate to the URL provided by Streamlit (usually `http://localhost:8501`).
 
-4.  **Ask a question:**
+5.  **Ask a question:**
     Enter your question in the text box and click "Get Answer".
 
 ## Project Structure
