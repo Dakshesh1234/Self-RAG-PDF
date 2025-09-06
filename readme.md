@@ -143,18 +143,18 @@ The application follows a self-correcting RAG workflow implemented using LangGra
 
 ## Project Structure
 
-.
-├── .gitignore
-├── app.py                  # Streamlit web application
-├── document_processing.py  # Text splitting and document creation
-├── main.py                 # Main application logic
-├── nodes.py                # Nodes for the LangGraph workflow
-├── pdf_utils.py            # PDF text extraction
-├── prompts.py              # Prompts and grading schemas
-├── readme.md               # This file
-├── requirements.txt        # Python dependencies
-├── vectorstore.py          # ChromaDB vector store setup
-└── workflow.py             # LangGraph workflow definition
+-.
+-├── .gitignore
+-├── app.py                  # Streamlit web application
+-├── document_processing.py  # Text splitting and document creation
+-├── main.py                 # Main application logic
+-├── nodes.py                # Nodes for the LangGraph workflow
+-├── pdf_utils.py            # PDF text extraction
+-├── prompts.py              # Prompts and grading schemas
+-├── readme.md               # This file
+-├── requirements.txt        # Python dependencies
+-├── vectorstore.py          # ChromaDB vector store setup
+-└── workflow.py             # LangGraph workflow definition
 
 ## Dependencies
 
