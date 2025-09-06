@@ -1,6 +1,6 @@
 # ✨ Self-RAG PDF Q&A ✨
 
-![Uploading PDF.png…]()
+<img width="2816" height="1536" alt="PDF" src="https://github.com/user-attachments/assets/50bff056-89d1-4c45-99e1-7fc3ee946320" />
 
 This project is a Retrieval-Augmented Generation (RAG) application that answers questions based on the content of a PDF document. It uses a self-correcting RAG workflow built with LangGraph and a Streamlit interface for user interaction.
 
