@@ -142,7 +142,7 @@ The application follows a self-correcting RAG workflow implemented using LangGra
     Enter your question in the text box and click "Get Answer".
 
 ## Project Structure
-
+```
 .
 ├── .gitignore
 ├── app.py                  # Streamlit web application
@@ -155,7 +155,7 @@ The application follows a self-correcting RAG workflow implemented using LangGra
 ├── requirements.txt        # Python dependencies
 ├── vectorstore.py          # ChromaDB vector store setup
 └── workflow.py             # LangGraph workflow definition
-
+```
 ## Dependencies
 
 The main dependencies are listed in the `requirements.txt` file and include:
