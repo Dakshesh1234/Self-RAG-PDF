@@ -1,4 +1,6 @@
-# Self-RAG PDF Q&A
+# ✨ Self-RAG PDF Q&A ✨
+
+![Uploading PDF.png…]()
 
 This project is a Retrieval-Augmented Generation (RAG) application that answers questions based on the content of a PDF document. It uses a self-correcting RAG workflow built with LangGraph and a Streamlit interface for user interaction.
 
